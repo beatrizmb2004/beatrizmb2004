@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/72519421/198845401-0c9844a1-be53-4889-943c-23dfbee4b690.png)
+file:///home/biambarros/Downloads/2_cats.gif![image](https://user-images.githubusercontent.com/72519421/198845474-a05d60f3-7c17-41e6-b960-11cc33beed58.png)
+
 
 
 - 👋 Hi, I’m Beatriz Muniz de Barros.
