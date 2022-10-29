@@ -1,6 +1,5 @@
 # Hi, I'm Beatriz! :D
 
-- 👋 Hi, I’m Beatriz Muniz de Barros.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python, MySQL.
 - 💞️ I’m looking to collaborate on ...
