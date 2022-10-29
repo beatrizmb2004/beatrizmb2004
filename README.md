@@ -1,6 +1,4 @@
-![](2_cats.gif)
-
-
+# Hi, I'm Beatriz! :D
 
 - 👋 Hi, I’m Beatriz Muniz de Barros.
 - 👀 I’m interested in ...
