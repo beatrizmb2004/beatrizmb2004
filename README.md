@@ -7,7 +7,7 @@
 - ⏰ I'm currently working as a Support Analyst.
 - 🎮 My hobbies: games, movies, series, music. 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/PPgZCwZPKrLcw75EG1/giphy.gif)
 
 <!---
 beatrizmb2004/beatrizmb2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
