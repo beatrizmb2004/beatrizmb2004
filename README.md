@@ -1,4 +1,4 @@
-file:///home/biambarros/Downloads/2_cats.gif![image](https://user-images.githubusercontent.com/72519421/198845474-a05d60f3-7c17-41e6-b960-11cc33beed58.png)
+![](2_cats.gif)
 
 
 
